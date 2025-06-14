@@ -1,0 +1,80 @@
+# SALLATË/SALADS
+Sallatë Greke/ Greek Salad|400|greek-salad.jpg|(Tomato,cucumber,onion,white cheese,olives)
+Sallatë Fshati/ Village Salad|350|village-salad.jpg|(Tomato,cucumber,onion)
+Sallatë Jeshile/ Green Salad|350|green-salad.jpg|(green sallad,fresh onion,cucumber)|
+
+# ANTIPASTA/APPETIZERS
+Patate/Fries|300|fries.jpg
+Xaxiq/Tzatziki|300|tzatziki.jpg
+Djath i Bardh/ White Cheese|300|white-cheese.jpg
+Perime Zgare/ Grilled Vegetables|400|grilled-vegetables.jpg
+Djath i Pjekur/ Baked Cheese|400|baked-cheese.jpg
+Tirokafteri/Tirokafteri|300|tirokafteri.jpg
+
+# RACION/PORTION
+Racion Gyro Pule/ Chicken Gyro Portion|750|chicken-gyro.jpg|(Xaxiq, domate, qepë, patate, pite) / (Tzatziki, tomatoes, onion, fries, pita)
+Racion Shishqebap Pule/ Chicken Souvlaki Portion|700|chicken-kebab-portion.jpg|(Xaxiq, domate, qepë, patate, pite) / (Tzatziki, tomatoes, onion, fries, pita)
+Racion krah pule me BBQ sos / Chicken wings with BBQ sauce|1000|chicken-wings.jpg|((Xaxiq, domate, qepë, patate, pite) / (Tzatziki, tomatoes, onion, fries, pita)
+Racion Fileto Pule / Chicken Fillet|850|chicken-fillet.jpg|(Xaxiq, domate, qepë, patate, pite) / (Tzatziki, tomatoes, onion, fries, pita)
+Racion Llukanik Vici / Beef sausage portion|800|beef-portion.jpg|(Xaxiq, domate, qepë, patate, pite) / (Tzatziki, tomatoes, onion, fries, pita)
+Ration gingji /Lamb ribs meat|1300|lamb-ribs.jpg|(Xaxiq, domate, qepë, patate, pite) / (Tzatziki, tomatoes, onion, fries, pita)
+Racion Filleto Viçi / Beef fillet portion|1500|beef-fillet.jpg|(Xaxiq, domate, qepë, patate, pite) / (Tzatziki, tomatoes, onion, fries, pita)
+Racion Suxhuk/Suxhuk Portion|800|suxhuk.jpg|(Xaxiq, domate, qepë, patate, pite) / (Tzatziki, tomatoes, onion, fries, pita)
+
+# ZGARË/GRILL
+Shishqebap Pule/ Chicken Souvlaki|200|chicken-kebab.jpg
+Llukaniko Viçi/ Beef sausage|200|loukaniko.jpg
+Fileto Pule/ Chicken Fillet|400|fillet-chicken.jpg
+Mish gingji/ Lamb meat kg|3000|lamb-ribs.jpg
+Filleto vici/ Beef Fillet Steak|400|beef-steak.jpg
+Krah Pule/ Chicken Wings|600|chicken-wings.jpg
+Mix Zgare/Mix Grill|4000|mix-grill.jpg|(Chicken souvlaki,sausage,chicken fillet,lamp,chicken wings)
+Vegetarian Souvlaki|500|vegeterian.jpg|(Mushroom,onion,peper in stick)
+
+# SUFLLAQE/GYRO
+Sufllaqe pule/ Chicken Gyro|350|chicken-souvlaki.jpg|(Xaxiq, qepë, domate, patate) / (Tzatziki, onion, tomatoes, fries)
+Sufllaqe me Shishqebap Pule/ Gyro with Chicken Kebab|350|gyro-kebab.jpg|(Xaxiq, qepë, domate, patate) / (Tzatziki, onion, tomatoes, fries)
+Sufllaqe Suxhuk/Gyro with Suxhuk|350|gyro-sausage.jpg|(Xaxiq, qepë, domate, patate) / (Tzatziki, onion, tomatoes, fries)
+Sufllaqe Llukanik/ Gyro with Sausage|350|gyro-sausage.jpg|(Xaxiq, qepë, domate, patate) / (Tzatziki, onion, tomatoes, fries)
+Sufllaqe Vegjetariane / Vegetarian Gyro|350|vegetarian-gyro.jpg|(Xaxiq, qepë, domate, patate) / (Tzatziki, onion, tomatoes, fries)
+Sufllaqe Vegan / Souvlaki Vegan|350|vegan-gyro.jpg|(Kerpudh,qep,speca) / (Mushroom,onion,pepers)
+
+# SANDUIÇË/ SANDWICH
+Sanduiç Pule/ Chicken Sandwich|500|sandwich.jpg|(Domate, patate, sos) / (Tomatoes, fries, sos)
+Sanduiç Shishqebap/ Chicken Kebab Sandwich|500|sandwich.jpg|(Domate, patate, sos) / (Tomatoes, fries, sos)
+Sanduiç Llukaniko / Sausage Sandwich|500|sandwich.jpg|(Domate, patate, sos) / (Tomatoes, fries, sos)
+Sanduiç Vegjetariane/Vegetarian Sandwich|500|sandwich.jpg|(Domate, patate, sos) / (Tomatoes, fries, sos)
+Sanduiç Suxhuk/Sandwich with Suxhuk|700|sandwich.jpg|(Domate, patate, sos) / (Tomatoes, fries, sos)
+
+# SQEBASTI/SKEBASTI
+Sqepasti Pule /Chicken Skepasti|800|chicken-skepasti.jpg|(Pita,gyro,cheese,tomato,sos,tzatziki)
+
+# PIJE FRESKUESE/SOFT DRINKS
+Coca Cola|200|coca-cola.jpg
+Fanta|200|fanta.jpg
+Soda (Orange, Lemon, Mojito)|200|soda.jpg
+Ice Tea|200|ice-tea.jpg
+Bravo (Apple, Peach)|200|bravo.jpg
+Ujë i Vogël/Small Water|100|small-water.jpg
+Ujë i Madh/ Big Water|200|big-water.jpg
+
+# KAFE/COFFEE
+Espresso|100|espresso.jpg
+Frappe|200|frappe.jpg
+Cappuccino|100|cappuccino.jpg
+Americano|200|americano.jpg
+Machiatto|100|macchiato.jpg
+Freddo Espresso|200|freddo-espresso.jpg
+Freddo Cappuccino|200|freddo-cappuccino.jpg
+Lëng Portokalli/Orange Juice|300|orange-juice.jpg
+
+# BIRRA/BEERS
+Peja|200|peja.jpg
+Elbar|200|elbar.jpg
+Korça|300|korca.jpg
+Heineken|300|heineken.jpg
+Bavaria|200|bavaria.jpg
+
+# VERË/WINE
+Verë e Kuqe/ Red Wine(0.5L)|500|red-wine.jpg
+Verë e Bardhë/ White Wine(0.5L)|500|white-wine.jpg
