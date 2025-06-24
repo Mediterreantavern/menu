@@ -26,7 +26,7 @@ Shishqebap Pule/ Chicken Souvlaki|200|chicken-kebab.jpg
 Llukaniko Viçi/ Beef sausage|200|loukaniko.jpg
 Fileto Pule/ Chicken Fillet|400|fillet-chicken.jpg
 Mish gingji/ Lamb meat kg|3000|lamb-ribs.jpg
-Filleto vici/ Beef Fillet Steak|400|beef-steak.jpg
+Filleto vici/ Beef Fillet Steak|800|beef-steak.jpg
 Krah Pule/ Chicken Wings|600|chicken-wings.jpg
 Mix Zgare/Mix Grill|4000|mix-grill.jpg|(Chicken souvlaki,sausage,chicken fillet,lamp,chicken wings)
 Vegetarian Souvlaki|500|vegeterian.jpg|(Mushroom,onion,peper in stick)
